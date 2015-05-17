@@ -1,0 +1,190 @@
+2014-12-16 16:51:20 I: A new test session was created
+2014-12-16 16:51:20 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 16:52:58 I: A new test session was created
+2014-12-16 16:52:58 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 16:57:19 I: A new test session was created
+2014-12-16 16:57:19 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 16:58:13 I: A new test session was created
+2014-12-16 16:58:13 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 16:58:34 I: A new test session was created
+2014-12-16 16:58:34 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 16:59:08 I: A new test session was created
+2014-12-16 16:59:08 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:00:13 I: A new test session was created
+2014-12-16 17:00:13 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:00:46 I: A new test session was created
+2014-12-16 17:00:46 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:04:10 I: A new test session was created
+2014-12-16 17:04:10 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:05:58 I: A new test session was created
+2014-12-16 17:05:59 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:06:17 I: A new test session was created
+2014-12-16 17:06:17 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:06:24 I: A new test session was created
+2014-12-16 17:06:24 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:06:37 I: A new test session was created
+2014-12-16 17:06:37 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:06:44 I: A new test session was created
+2014-12-16 17:06:44 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:07:12 I: A new test session was created
+2014-12-16 17:07:12 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:07:22 I: A new test session was created
+2014-12-16 17:07:22 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:08:23 I: A new test session was created
+2014-12-16 17:08:23 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:08:45 I: A new test session was created
+2014-12-16 17:08:45 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:21:49 I: A new test session was created
+2014-12-16 17:21:49 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:22:28 I: A new test session was created
+2014-12-16 17:22:28 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:23:57 I: A new test session was created
+2014-12-16 17:23:57 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:24:36 I: A new test session was created
+2014-12-16 17:24:36 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:25:07 I: A new test session was created
+2014-12-16 17:25:07 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:25:34 I: A new test session was created
+2014-12-16 17:25:34 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:26:09 I: A new test session was created
+2014-12-16 17:26:09 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:26:43 I: A new test session was created
+2014-12-16 17:26:43 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:28:20 I: A new test session was created
+2014-12-16 17:28:20 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:30:20 I: A new test session was created
+2014-12-16 17:30:20 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:32:43 I: A new test session was created
+2014-12-16 17:32:43 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:35:34 I: A new test session was created
+2014-12-16 17:35:34 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:36:07 I: A new test session was created
+2014-12-16 17:36:07 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:38:11 I: A new test session was created
+2014-12-16 17:38:11 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:38:52 I: A new test session was created
+2014-12-16 17:38:53 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:39:23 I: A new test session was created
+2014-12-16 17:39:23 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:41:09 I: A new test session was created
+2014-12-16 17:41:09 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:41:40 I: A new test session was created
+2014-12-16 17:41:40 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:46:26 I: A new test session was created
+2014-12-16 17:46:26 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:46:35 I: A new test session was created
+2014-12-16 17:46:35 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:50:59 I: A new test session was created
+2014-12-16 17:50:59 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:51:16 I: A new test session was created
+2014-12-16 17:51:16 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:51:45 I: A new test session was created
+2014-12-16 17:51:45 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:53:30 I: A new test session was created
+2014-12-16 17:53:30 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:54:35 I: A new test session was created
+2014-12-16 17:54:35 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:56:51 I: A new test session was created
+2014-12-16 17:56:51 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 18:02:15 I: A new test session was created
+2014-12-16 18:02:15 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 18:07:41 I: A new test session was created
+2014-12-16 18:07:41 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 18:08:16 I: A new test session was created
+2014-12-16 18:08:16 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 18:08:28 I: A new test session was created
+2014-12-16 18:08:28 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 18:27:24 I: A new test session was created
+2014-12-16 18:27:24 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 22:04:06 I: A new test session was created
+2014-12-16 22:04:06 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 22:06:21 I: A new test session was created
+2014-12-16 22:06:21 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 22:09:04 I: A new test session was created
+2014-12-16 22:09:04 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 22:11:18 I: A new test session was created
+2014-12-16 22:11:18 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 22:38:17 I: A new test session was created
+2014-12-16 22:38:17 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 22:44:12 I: A new test session was created
+2014-12-16 22:44:12 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 22:44:25 I: A new test session was created
+2014-12-16 22:44:25 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 22:44:54 I: A new test session was created
+2014-12-16 22:44:54 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 22:46:30 I: A new test session was created
+2014-12-16 22:46:30 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 22:49:37 I: A new test session was created
+2014-12-16 22:49:37 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 22:50:47 I: A new test session was created
+2014-12-16 22:50:47 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 22:52:29 I: A new test session was created
+2014-12-16 22:52:29 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 22:55:34 I: A new test session was created
+2014-12-16 22:55:34 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 23:05:30 I: A new test session was created
+2014-12-16 23:05:30 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 23:06:14 I: A new test session was created
+2014-12-16 23:06:14 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 23:06:56 I: A new test session was created
+2014-12-16 23:06:56 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 23:25:08 I: A new test session was created
+2014-12-16 23:25:08 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 23:25:39 I: A new test session was created
+2014-12-16 23:25:39 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 23:32:49 I: A new test session was created
+2014-12-16 23:32:49 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 23:33:01 I: A new test session was created
+2014-12-16 23:33:01 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 23:35:12 I: A new test session was created
+2014-12-16 23:35:12 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 15:13:34 I: A new test session was created
+2014-12-17 15:13:34 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 15:16:05 I: A new test session was created
+2014-12-17 15:16:05 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 15:16:47 I: A new test session was created
+2014-12-17 15:16:47 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 15:29:21 I: A new test session was created
+2014-12-17 15:29:21 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 15:38:59 I: A new test session was created
+2014-12-17 15:38:59 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 15:39:22 I: A new test session was created
+2014-12-17 15:39:22 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 15:39:57 I: A new test session was created
+2014-12-17 15:39:57 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 15:44:20 I: A new test session was created
+2014-12-17 15:44:20 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 15:47:53 I: A new test session was created
+2014-12-17 15:47:54 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 15:48:31 I: A new test session was created
+2014-12-17 15:48:31 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 15:50:09 I: A new test session was created
+2014-12-17 15:50:09 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 15:52:59 I: A new test session was created
+2014-12-17 15:52:59 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 16:39:31 I: A new test session was created
+2014-12-17 16:39:31 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 16:43:03 I: A new test session was created
+2014-12-17 16:43:03 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 16:43:49 I: A new test session was created
+2014-12-17 16:43:49 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 16:48:53 I: A new test session was created
+2014-12-17 16:48:53 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 17:29:06 I: A new test session was created
+2014-12-17 17:29:06 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 17:30:17 I: A new test session was created
+2014-12-17 17:30:17 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 17:57:33 I: A new test session was created
+2014-12-17 17:57:33 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 18:02:01 I: A new test session was created
+2014-12-17 18:02:01 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 18:03:57 I: A new test session was created
+2014-12-17 18:03:57 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 18:06:35 I: A new test session was created
+2014-12-17 18:06:35 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 18:09:48 I: A new test session was created
+2014-12-17 18:09:48 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 18:10:33 I: A new test session was created
+2014-12-17 18:10:33 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 18:12:13 I: A new test session was created
+2014-12-17 18:12:13 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program

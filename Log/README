@@ -1,0 +1,15 @@
+This directory contains log files related to the execution of the scripts.
+
+The logs has been replaced by stdout print.
+
+So, to active the logfiles, it's need to replace every statment into the scripts file  as shown below:
+
+create a log file:
+
+import logging
+
+log.basicConfig(format="%(asctime)s %(message)s", datefmt="%Y-%m-%d %H:%M:%S", level=logging.INFO)
+
+replace the parts of the code with this kind of statment:
+
+if verbose: print 'String'  -> log.info('String')

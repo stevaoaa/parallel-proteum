@@ -1,0 +1,1984 @@
+2014-09-18 18:31:54 I: A new test session was created
+2014-09-18 18:31:54 I: muta-gen -u- 1.0 0 cal --> Generating mutants for the program
+2014-09-20 19:11:50 I: ------------------------ Starting a new connection ---------------------------
+2014-09-20 19:11:51 I: A new test session was created
+2014-09-20 19:11:51 I: muta-gen -u- 1.0 0 power --> Generating mutants for the program
+2014-09-20 19:11:51 I: connecting to scheduler at tcp://localhost:5555
+2014-09-20 19:11:51 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 12:46:53 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 12:46:53 I: A new test session was created
+2014-09-22 12:46:53 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 12:47:34 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 12:47:34 I: A new test session was created
+2014-09-22 12:47:34 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 12:47:34 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 12:47:34 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 14:11:40 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 14:11:40 I: A new test session was created
+2014-09-22 14:11:40 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 14:11:40 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 14:11:40 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 14:15:32 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 14:15:32 I: A new test session was created
+2014-09-22 14:15:32 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 14:15:32 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 14:15:32 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 14:16:18 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 14:16:18 I: A new test session was created
+2014-09-22 14:16:18 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 14:16:18 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 14:16:18 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 14:21:01 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 14:21:01 I: A new test session was created
+2014-09-22 14:21:01 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 14:21:01 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 14:21:01 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 14:31:39 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 14:31:39 I: A new test session was created
+2014-09-22 14:31:39 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 14:31:39 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 14:31:39 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 14:35:32 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 14:35:32 I: A new test session was created
+2014-09-22 14:35:32 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 14:35:32 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 14:35:32 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 14:40:13 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 14:40:13 I: A new test session was created
+2014-09-22 14:40:13 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 14:40:13 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 14:40:13 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 14:40:13 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 14:40:13 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 14:40:13 I: Connecting to the scheduler at: tcp://localhost:5555
+2014-09-22 14:40:13 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 14:44:18 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 14:44:18 I: A new test session was created
+2014-09-22 14:44:18 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 14:44:18 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 14:44:18 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 14:44:18 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 14:46:01 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 14:46:01 I: A new test session was created
+2014-09-22 14:46:01 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 14:46:01 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 14:46:01 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 14:46:01 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 15:24:57 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 15:24:57 I: A new test session was created
+2014-09-22 15:24:57 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 15:24:58 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 15:24:58 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 15:25:48 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 15:25:48 I: A new test session was created
+2014-09-22 15:25:48 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 15:25:48 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 15:25:48 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 15:28:22 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 15:28:22 I: A new test session was created
+2014-09-22 15:28:22 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 15:28:22 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 15:28:22 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 15:31:12 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 15:31:12 I: A new test session was created
+2014-09-22 15:31:12 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 15:31:12 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 15:31:12 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 15:47:30 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 15:47:30 I: A new test session was created
+2014-09-22 15:47:30 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 15:47:30 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 15:47:30 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 15:48:21 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 15:48:21 I: A new test session was created
+2014-09-22 15:48:21 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 15:48:21 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 15:48:21 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 15:48:53 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 15:48:53 I: A new test session was created
+2014-09-22 15:48:53 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 15:48:53 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 15:48:53 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 15:49:54 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 15:49:54 I: A new test session was created
+2014-09-22 15:49:55 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 15:49:55 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 15:49:55 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 15:50:45 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 15:50:45 I: A new test session was created
+2014-09-22 15:50:45 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 15:50:45 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 15:50:45 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 15:54:00 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 15:54:00 I: A new test session was created
+2014-09-22 15:54:00 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 15:54:00 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 15:54:00 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 15:54:34 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 15:54:34 I: A new test session was created
+2014-09-22 15:54:34 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 15:54:34 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 15:54:34 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 15:56:47 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 15:56:47 I: A new test session was created
+2014-09-22 15:56:47 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 15:56:47 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 15:56:47 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 16:00:31 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 16:00:31 I: A new test session was created
+2014-09-22 16:00:31 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 16:00:31 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 16:00:31 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 16:01:48 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 16:01:48 I: A new test session was created
+2014-09-22 16:01:48 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 16:01:48 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 16:01:48 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 16:02:17 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 16:02:17 I: A new test session was created
+2014-09-22 16:02:17 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 16:02:17 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 16:02:17 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 16:02:46 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 16:02:46 I: A new test session was created
+2014-09-22 16:02:47 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 16:02:47 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 16:02:47 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 16:05:44 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 16:05:44 I: A new test session was created
+2014-09-22 16:05:44 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 16:05:44 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 16:05:44 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 16:06:47 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 16:06:47 I: A new test session was created
+2014-09-22 16:06:47 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 16:06:47 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 16:06:47 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 16:07:37 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 16:07:37 I: A new test session was created
+2014-09-22 16:07:37 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 16:07:37 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 16:07:37 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 16:08:01 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 16:08:01 I: A new test session was created
+2014-09-22 16:08:01 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 16:08:01 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 16:08:01 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 16:19:49 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 16:19:49 I: A new test session was created
+2014-09-22 16:19:49 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 16:19:49 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 16:19:49 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 16:20:32 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 16:20:32 I: A new test session was created
+2014-09-22 16:20:32 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 16:20:32 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 16:20:32 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 16:49:53 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 16:49:53 I: A new test session was created
+2014-09-22 16:49:53 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 16:49:53 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 16:49:53 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 16:50:01 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 16:50:01 I: A new test session was created
+2014-09-22 16:50:01 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 16:50:02 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 16:50:02 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 16:51:06 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 16:51:06 I: A new test session was created
+2014-09-22 16:51:06 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 16:51:07 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 16:51:07 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 16:51:55 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 16:51:55 I: A new test session was created
+2014-09-22 16:51:55 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 16:51:55 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 16:51:55 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 16:52:25 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 16:52:25 I: A new test session was created
+2014-09-22 16:52:25 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 16:52:25 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 16:52:25 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 17:21:22 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 17:21:23 I: A new test session was created
+2014-09-22 17:21:23 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 17:21:23 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 17:21:23 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 17:26:44 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 17:26:44 I: A new test session was created
+2014-09-22 17:26:44 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 17:26:44 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 17:26:44 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 17:27:32 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 17:27:32 I: A new test session was created
+2014-09-22 17:27:32 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 17:27:32 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 17:27:32 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 17:33:02 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 17:33:02 I: A new test session was created
+2014-09-22 17:33:02 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 17:33:02 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 17:33:02 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 17:47:32 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 17:47:32 I: A new test session was created
+2014-09-22 17:47:32 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 17:47:32 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 17:47:32 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 17:48:59 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 17:48:59 I: A new test session was created
+2014-09-22 17:49:00 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 17:49:00 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 17:49:00 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 17:55:47 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 17:55:47 I: A new test session was created
+2014-09-22 17:55:47 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 17:55:47 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 17:55:47 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 18:02:17 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 18:02:17 I: A new test session was created
+2014-09-22 18:02:17 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 18:02:17 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 18:02:17 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 18:05:10 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 18:05:10 I: A new test session was created
+2014-09-22 18:05:10 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 18:05:11 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 18:05:11 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 18:56:51 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 18:56:51 I: A new test session was created
+2014-09-22 18:56:51 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 18:56:51 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 18:56:51 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 18:57:49 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 18:57:49 I: A new test session was created
+2014-09-22 18:57:49 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 18:57:49 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 18:57:49 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 18:57:49 I: recived the reply!
+2014-09-22 18:58:33 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 18:58:33 I: A new test session was created
+2014-09-22 18:58:34 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 18:58:34 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 18:58:34 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 18:58:34 I: recived the reply!
+2014-09-22 18:58:55 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 18:58:55 I: A new test session was created
+2014-09-22 18:58:55 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 18:58:55 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 18:58:55 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 18:58:55 I: recived the reply!
+2014-09-22 18:58:55 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 18:59:45 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 18:59:45 I: A new test session was created
+2014-09-22 18:59:45 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 18:59:45 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 18:59:45 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 18:59:45 I: recived the reply!
+2014-09-22 18:59:45 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 19:22:13 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 19:22:13 I: A new test session was created
+2014-09-22 19:22:14 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 19:22:14 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 19:22:14 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 19:24:40 I: The execution was interrupted by keyboard! Restart the process..
+2014-09-22 19:24:50 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 19:24:50 I: A new test session was created
+2014-09-22 19:24:50 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 19:24:50 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 19:24:50 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 19:25:26 I: The execution was interrupted by keyboard! Restart the process..
+2014-09-22 19:25:36 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 19:25:36 I: A new test session was created
+2014-09-22 19:25:36 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 19:25:36 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 19:25:36 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 19:26:24 I: The execution was interrupted by keyboard! Restart the process..
+2014-09-22 19:26:26 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 19:26:26 I: A new test session was created
+2014-09-22 19:26:26 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 19:26:26 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 19:26:26 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-22 19:32:46 I: The execution was interrupted by keyboard! Restart the process..
+2014-09-22 19:32:56 I: ------------------------ Starting a new connection ---------------------------
+2014-09-22 19:32:56 I: A new test session was created
+2014-09-22 19:32:56 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-22 19:32:56 I: connecting to scheduler at tcp://localhost:5555
+2014-09-22 19:32:56 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-24 14:10:00 I: ------------------------ Starting a new connection ---------------------------
+2014-09-24 14:10:00 I: A new test session was created
+2014-09-24 14:10:01 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-24 14:10:01 I: connecting to scheduler at tcp://localhost:5555
+2014-09-24 14:10:01 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-09-24 14:19:51 I: ------------------------ Starting a new connection ---------------------------
+2014-09-24 14:19:51 I: A new test session was created
+2014-09-24 14:19:51 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-09-24 14:19:51 I: connecting to scheduler at tcp://localhost:5555
+2014-09-24 14:19:51 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-07 18:02:49 I: ------------------------ Starting a new connection ---------------------------
+2014-10-07 18:02:49 I: A new test session was created
+2014-10-07 18:02:50 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-07 18:02:50 I: connecting to scheduler at tcp://localhost:5555
+2014-10-07 18:02:50 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-07 18:38:45 I: ------------------------ Starting a new connection ---------------------------
+2014-10-07 18:38:45 I: A new test session was created
+2014-10-07 18:38:45 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-07 18:38:45 I: connecting to scheduler at tcp://localhost:5555
+2014-10-07 18:38:45 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-28 19:13:51 I: ------------------------ Starting a new connection ---------------------------
+2014-10-28 19:13:52 I: A new test session was created
+2014-10-28 19:13:52 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-28 19:13:52 I: connecting to scheduler at tcp://localhost:5555
+2014-10-28 19:13:52 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-28 19:40:00 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-29 14:57:02 I: ------------------------ Starting a new connection ---------------------------
+2014-10-29 14:57:02 I: A new test session was created
+2014-10-29 14:57:02 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-29 14:57:02 I: connecting to scheduler at tcp://localhost:5555
+2014-10-29 14:57:02 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-29 15:02:04 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-29 15:02:13 I: ------------------------ Starting a new connection ---------------------------
+2014-10-29 15:02:13 I: A new test session was created
+2014-10-29 15:02:13 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-29 15:02:13 I: connecting to scheduler at tcp://localhost:5555
+2014-10-29 15:02:13 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-29 15:02:50 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-29 15:03:47 I: ------------------------ Starting a new connection ---------------------------
+2014-10-29 15:03:47 I: A new test session was created
+2014-10-29 15:03:47 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-29 15:03:47 I: connecting to scheduler at tcp://localhost:5555
+2014-10-29 15:03:47 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-29 15:15:06 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-29 15:15:11 I: ------------------------ Starting a new connection ---------------------------
+2014-10-29 15:15:11 I: A new test session was created
+2014-10-29 15:15:11 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-29 15:15:11 I: connecting to scheduler at tcp://localhost:5555
+2014-10-29 15:15:11 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-29 15:15:39 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-29 15:15:42 I: ------------------------ Starting a new connection ---------------------------
+2014-10-29 15:15:42 I: A new test session was created
+2014-10-29 15:15:42 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-29 15:15:42 I: connecting to scheduler at tcp://localhost:5555
+2014-10-29 15:15:42 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-29 15:24:59 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-29 15:25:02 I: ------------------------ Starting a new connection ---------------------------
+2014-10-29 15:25:02 I: A new test session was created
+2014-10-29 15:25:02 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-29 15:25:02 I: connecting to scheduler at tcp://localhost:5555
+2014-10-29 15:25:02 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-29 15:28:04 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-29 15:28:07 I: ------------------------ Starting a new connection ---------------------------
+2014-10-29 15:28:07 I: A new test session was created
+2014-10-29 15:28:08 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-29 15:28:08 I: connecting to scheduler at tcp://localhost:5555
+2014-10-29 15:28:08 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-29 15:29:27 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-29 15:29:43 I: ------------------------ Starting a new connection ---------------------------
+2014-10-29 15:29:43 I: A new test session was created
+2014-10-29 15:29:43 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-29 15:29:43 I: connecting to scheduler at tcp://localhost:5555
+2014-10-29 15:29:43 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-29 15:53:40 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-29 15:53:42 I: ------------------------ Starting a new connection ---------------------------
+2014-10-29 15:53:42 I: A new test session was created
+2014-10-29 15:53:42 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-29 15:53:42 I: connecting to scheduler at tcp://localhost:5555
+2014-10-29 15:53:42 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-29 15:53:58 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-29 15:54:00 I: ------------------------ Starting a new connection ---------------------------
+2014-10-29 15:54:00 I: A new test session was created
+2014-10-29 15:54:00 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-29 15:55:27 I: ------------------------ Starting a new connection ---------------------------
+2014-10-29 15:55:27 I: A new test session was created
+2014-10-29 15:55:27 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-29 15:55:27 I: connecting to scheduler at tcp://localhost:5555
+2014-10-29 15:55:27 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-29 15:57:06 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-29 15:57:08 I: ------------------------ Starting a new connection ---------------------------
+2014-10-29 15:57:08 I: A new test session was created
+2014-10-29 15:57:08 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-29 15:57:08 I: connecting to scheduler at tcp://localhost:5555
+2014-10-29 15:57:08 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-29 18:06:14 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-29 18:06:27 I: ------------------------ Starting a new connection ---------------------------
+2014-10-29 18:06:27 I: A new test session was created
+2014-10-29 18:06:27 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-29 18:06:27 I: connecting to scheduler at tcp://localhost:5555
+2014-10-29 18:06:27 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-29 18:13:53 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-29 18:15:01 I: ------------------------ Starting a new connection ---------------------------
+2014-10-29 18:15:01 I: A new test session was created
+2014-10-29 18:15:01 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-29 18:15:01 I: connecting to scheduler at tcp://localhost:5555
+2014-10-29 18:15:01 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-29 18:15:20 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-29 18:15:58 I: ------------------------ Starting a new connection ---------------------------
+2014-10-29 18:15:58 I: A new test session was created
+2014-10-29 18:15:59 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-29 18:15:59 I: connecting to scheduler at tcp://localhost:5555
+2014-10-29 18:15:59 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-30 17:26:14 I: ------------------------ Starting a new connection ---------------------------
+2014-10-30 17:26:14 I: A new test session was created
+2014-10-30 17:26:14 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-30 17:26:14 I: connecting to scheduler at tcp://localhost:5555
+2014-10-30 17:26:14 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-30 18:24:08 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-30 18:24:14 I: ------------------------ Starting a new connection ---------------------------
+2014-10-30 18:24:14 I: A new test session was created
+2014-10-30 18:24:14 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-30 18:24:14 I: connecting to scheduler at tcp://localhost:5555
+2014-10-30 18:24:14 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-30 18:24:52 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-30 18:24:58 I: ------------------------ Starting a new connection ---------------------------
+2014-10-30 18:24:58 I: A new test session was created
+2014-10-30 18:24:58 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-30 18:24:58 I: connecting to scheduler at tcp://localhost:5555
+2014-10-30 18:24:58 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-30 18:25:23 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-30 18:25:31 I: ------------------------ Starting a new connection ---------------------------
+2014-10-30 18:25:31 I: A new test session was created
+2014-10-30 18:25:31 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-30 18:25:31 I: connecting to scheduler at tcp://localhost:5555
+2014-10-30 18:25:31 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-30 18:25:53 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-30 18:26:03 I: ------------------------ Starting a new connection ---------------------------
+2014-10-30 18:26:03 I: A new test session was created
+2014-10-30 18:26:03 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-30 18:26:03 I: connecting to scheduler at tcp://localhost:5555
+2014-10-30 18:26:03 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-30 18:26:55 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-30 18:27:06 I: ------------------------ Starting a new connection ---------------------------
+2014-10-30 18:27:06 I: A new test session was created
+2014-10-30 18:27:06 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-30 18:27:06 I: connecting to scheduler at tcp://localhost:5555
+2014-10-30 18:27:06 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-30 18:44:56 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-30 18:44:59 I: ------------------------ Starting a new connection ---------------------------
+2014-10-30 18:44:59 I: A new test session was created
+2014-10-30 18:45:00 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-30 18:45:00 I: connecting to scheduler at tcp://localhost:5555
+2014-10-30 18:45:00 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-30 18:45:46 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-30 18:45:49 I: ------------------------ Starting a new connection ---------------------------
+2014-10-30 18:45:49 I: A new test session was created
+2014-10-30 18:45:49 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-30 18:45:49 I: connecting to scheduler at tcp://localhost:5555
+2014-10-30 18:45:49 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-30 18:46:44 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-30 18:46:46 I: ------------------------ Starting a new connection ---------------------------
+2014-10-30 18:46:46 I: A new test session was created
+2014-10-30 18:46:46 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-30 18:46:46 I: connecting to scheduler at tcp://localhost:5555
+2014-10-30 18:46:46 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-30 18:54:56 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-30 18:55:07 I: ------------------------ Starting a new connection ---------------------------
+2014-10-30 18:55:07 I: A new test session was created
+2014-10-30 18:55:07 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-30 18:55:07 I: connecting to scheduler at tcp://localhost:5555
+2014-10-30 18:55:07 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-30 19:03:17 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-30 19:03:23 I: ------------------------ Starting a new connection ---------------------------
+2014-10-30 19:03:23 I: A new test session was created
+2014-10-30 19:03:23 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-30 19:03:23 I: connecting to scheduler at tcp://localhost:5555
+2014-10-30 19:03:23 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-30 19:04:17 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-30 19:04:19 I: ------------------------ Starting a new connection ---------------------------
+2014-10-30 19:04:19 I: A new test session was created
+2014-10-30 19:04:19 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-30 19:04:19 I: connecting to scheduler at tcp://localhost:5555
+2014-10-30 19:04:19 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-30 19:22:54 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-30 19:23:02 I: ------------------------ Starting a new connection ---------------------------
+2014-10-30 19:23:02 I: A new test session was created
+2014-10-30 19:23:02 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-30 19:23:02 I: connecting to scheduler at tcp://localhost:5555
+2014-10-30 19:23:02 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-30 19:25:34 I: The execution was interrupted by keyboard! Restart the process..
+2014-10-30 19:25:42 I: ------------------------ Starting a new connection ---------------------------
+2014-10-30 19:25:42 I: A new test session was created
+2014-10-30 19:25:42 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-30 19:25:42 I: connecting to scheduler at tcp://localhost:5555
+2014-10-30 19:25:42 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-30 19:26:19 I: ------------------------ Starting a new connection ---------------------------
+2014-10-30 19:26:19 I: A new test session was created
+2014-10-30 19:26:19 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-30 19:26:19 I: connecting to scheduler at tcp://localhost:5555
+2014-10-30 19:26:19 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-30 19:26:19 I: recived the reply!
+2014-10-30 19:26:19 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-31 21:13:34 I: ------------------------ Starting a new connection ---------------------------
+2014-10-31 21:13:34 I: A new test session was created
+2014-10-31 21:13:34 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-31 21:13:34 I: connecting to scheduler at tcp://localhost:5555
+2014-10-31 21:13:34 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-31 21:13:34 I: recived the reply!
+2014-10-31 21:13:34 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-31 21:49:17 I: ------------------------ Starting a new connection ---------------------------
+2014-10-31 21:49:17 I: A new test session was created
+2014-10-31 21:49:17 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-31 21:49:17 I: connecting to scheduler at tcp://localhost:5555
+2014-10-31 21:49:17 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-10-31 21:51:56 I: ------------------------ Starting a new connection ---------------------------
+2014-10-31 21:51:56 I: A new test session was created
+2014-10-31 21:51:56 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-10-31 21:51:56 I: connecting to scheduler at tcp://localhost:5555
+2014-10-31 21:51:56 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-05 12:39:41 I: ------------------------ Starting a new connection ---------------------------
+2014-11-05 12:39:41 I: A new test session was created
+2014-11-05 12:39:41 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-05 12:39:41 I: connecting to scheduler at tcp://localhost:5555
+2014-11-05 12:39:41 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-05 13:57:56 I: ------------------------ Starting a new connection ---------------------------
+2014-11-05 13:57:56 I: A new test session was created
+2014-11-05 13:57:56 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-05 13:57:56 I: connecting to scheduler at tcp://localhost:5555
+2014-11-05 13:57:56 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-05 14:11:14 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-05 14:11:16 I: ------------------------ Starting a new connection ---------------------------
+2014-11-05 14:11:16 I: A new test session was created
+2014-11-05 14:11:16 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-05 14:11:16 I: connecting to scheduler at tcp://localhost:5555
+2014-11-05 14:11:16 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-05 14:12:05 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-05 14:12:08 I: ------------------------ Starting a new connection ---------------------------
+2014-11-05 14:12:08 I: A new test session was created
+2014-11-05 14:12:08 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-05 14:12:08 I: connecting to scheduler at tcp://localhost:5555
+2014-11-05 14:12:08 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-05 14:15:12 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-05 14:15:21 I: ------------------------ Starting a new connection ---------------------------
+2014-11-05 14:15:21 I: A new test session was created
+2014-11-05 14:15:21 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-05 14:15:21 I: connecting to scheduler at tcp://localhost:5555
+2014-11-05 14:15:21 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-05 14:16:23 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-05 14:16:24 I: ------------------------ Starting a new connection ---------------------------
+2014-11-05 14:16:24 I: A new test session was created
+2014-11-05 14:16:24 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-05 14:16:24 I: connecting to scheduler at tcp://localhost:5555
+2014-11-05 14:16:24 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-05 14:16:58 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-05 14:17:00 I: ------------------------ Starting a new connection ---------------------------
+2014-11-05 14:17:00 I: A new test session was created
+2014-11-05 14:17:01 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-05 14:17:01 I: connecting to scheduler at tcp://localhost:5555
+2014-11-05 14:17:01 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-05 14:17:37 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-05 14:17:39 I: ------------------------ Starting a new connection ---------------------------
+2014-11-05 14:17:39 I: A new test session was created
+2014-11-05 14:17:39 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-05 14:17:39 I: connecting to scheduler at tcp://localhost:5555
+2014-11-05 14:17:39 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-05 14:18:08 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-05 14:18:14 I: ------------------------ Starting a new connection ---------------------------
+2014-11-05 14:18:14 I: A new test session was created
+2014-11-05 14:18:14 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-05 14:18:14 I: connecting to scheduler at tcp://localhost:5555
+2014-11-05 14:18:14 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-05 14:19:07 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-05 14:19:08 I: ------------------------ Starting a new connection ---------------------------
+2014-11-05 14:19:08 I: A new test session was created
+2014-11-05 14:19:08 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-05 14:19:08 I: connecting to scheduler at tcp://localhost:5555
+2014-11-05 14:19:08 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-05 14:20:54 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-05 14:20:56 I: ------------------------ Starting a new connection ---------------------------
+2014-11-05 14:20:56 I: A new test session was created
+2014-11-05 14:20:56 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-05 14:20:56 I: connecting to scheduler at tcp://localhost:5555
+2014-11-05 14:20:56 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-05 14:24:52 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-05 14:24:59 I: ------------------------ Starting a new connection ---------------------------
+2014-11-05 14:24:59 I: A new test session was created
+2014-11-05 14:24:59 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-05 14:24:59 I: connecting to scheduler at tcp://localhost:5555
+2014-11-05 14:24:59 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-10 19:48:09 I: ------------------------ Starting a new connection ---------------------------
+2014-11-10 19:48:09 I: A new test session was created
+2014-11-10 19:48:09 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-10 19:48:10 I: connecting to scheduler at tcp://localhost:5555
+2014-11-10 19:48:10 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-10 19:48:50 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-10 19:48:53 I: ------------------------ Starting a new connection ---------------------------
+2014-11-10 19:48:53 I: A new test session was created
+2014-11-10 19:48:53 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-10 19:48:53 I: connecting to scheduler at tcp://localhost:5555
+2014-11-10 19:48:53 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-10 19:49:23 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-10 19:51:42 I: ------------------------ Starting a new connection ---------------------------
+2014-11-10 19:51:42 I: A new test session was created
+2014-11-10 19:51:42 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-10 19:51:42 I: connecting to scheduler at tcp://localhost:5555
+2014-11-10 19:51:42 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-10 20:05:52 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-10 20:05:53 I: ------------------------ Starting a new connection ---------------------------
+2014-11-10 20:05:53 I: A new test session was created
+2014-11-10 20:05:53 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-10 20:05:53 I: connecting to scheduler at tcp://localhost:5555
+2014-11-10 20:05:53 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 09:56:01 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 09:56:01 I: A new test session was created
+2014-11-11 09:56:01 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 09:56:01 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 09:56:01 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 10:00:03 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 10:00:13 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 10:00:13 I: A new test session was created
+2014-11-11 10:00:13 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 10:00:13 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 10:00:13 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 10:00:45 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 10:00:51 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 10:00:51 I: A new test session was created
+2014-11-11 10:00:51 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 10:00:51 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 10:00:51 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 11:02:15 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 11:02:18 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 11:02:18 I: A new test session was created
+2014-11-11 11:02:18 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 11:02:18 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 11:02:18 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 11:06:23 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 11:06:29 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 11:06:29 I: A new test session was created
+2014-11-11 11:06:29 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 11:06:29 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 11:06:29 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 11:06:59 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 11:07:00 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 11:07:00 I: A new test session was created
+2014-11-11 11:07:00 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 11:07:00 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 11:07:00 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 11:07:26 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 11:07:36 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 11:07:36 I: A new test session was created
+2014-11-11 11:07:37 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 11:07:37 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 11:07:37 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 11:09:35 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 11:09:38 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 11:09:38 I: A new test session was created
+2014-11-11 11:09:38 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 11:09:38 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 11:09:38 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 11:10:23 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 11:10:25 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 11:10:25 I: A new test session was created
+2014-11-11 11:10:26 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 11:10:26 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 11:10:26 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 11:10:50 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 11:10:52 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 11:10:52 I: A new test session was created
+2014-11-11 11:10:52 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 11:10:52 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 11:10:52 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 11:11:24 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 11:11:26 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 11:11:26 I: A new test session was created
+2014-11-11 11:11:26 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 11:11:26 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 11:11:26 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 11:12:00 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 11:12:17 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 11:12:17 I: A new test session was created
+2014-11-11 11:12:17 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 11:12:17 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 11:12:17 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 11:12:34 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 11:12:34 I: A new test session was created
+2014-11-11 11:12:34 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 11:12:34 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 11:12:34 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 11:13:08 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 11:13:08 I: A new test session was created
+2014-11-11 11:13:08 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 11:13:08 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 11:13:08 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 11:13:11 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 11:13:21 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 11:13:21 I: A new test session was created
+2014-11-11 11:13:21 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 11:13:21 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 11:13:21 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 11:14:03 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 11:14:05 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 11:14:05 I: A new test session was created
+2014-11-11 11:14:05 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 11:14:05 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 11:14:05 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 11:34:25 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 11:34:28 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 11:34:28 I: A new test session was created
+2014-11-11 11:34:28 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 11:34:28 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 11:34:28 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 11:35:29 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 11:35:31 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 11:35:31 I: A new test session was created
+2014-11-11 11:35:31 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 11:35:31 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 11:35:31 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 11:36:31 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 11:36:33 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 11:36:33 I: A new test session was created
+2014-11-11 11:36:33 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 11:36:33 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 11:36:33 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 11:37:23 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 11:37:24 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 11:37:24 I: A new test session was created
+2014-11-11 11:37:25 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 11:37:25 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 11:37:25 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 11:40:01 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 11:40:09 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 11:40:09 I: A new test session was created
+2014-11-11 11:40:09 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 11:40:09 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 11:40:09 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 12:09:00 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 12:09:02 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 12:09:02 I: A new test session was created
+2014-11-11 12:09:02 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 12:09:02 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 12:09:02 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 12:09:45 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 12:09:50 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 12:09:50 I: A new test session was created
+2014-11-11 12:09:50 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 12:09:50 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 12:09:50 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 12:10:15 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 12:10:17 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 12:10:17 I: A new test session was created
+2014-11-11 12:10:17 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 12:10:17 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 12:10:17 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 12:10:56 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 12:10:58 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 12:10:58 I: A new test session was created
+2014-11-11 12:10:58 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 12:10:58 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 12:10:58 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 12:12:48 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 12:12:50 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 12:12:50 I: A new test session was created
+2014-11-11 12:12:50 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 12:12:50 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 12:12:50 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 12:12:58 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 12:13:45 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 12:13:45 I: A new test session was created
+2014-11-11 12:13:45 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 12:13:45 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 12:13:45 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 14:39:09 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 14:39:09 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 14:39:09 I: A new test session was created
+2014-11-11 14:39:10 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 14:39:10 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 14:39:10 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 14:39:40 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 14:39:41 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 14:39:41 I: A new test session was created
+2014-11-11 14:39:41 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 14:39:41 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 14:39:41 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 14:54:29 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 14:54:31 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 14:54:31 I: A new test session was created
+2014-11-11 14:54:31 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 14:54:31 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 14:54:31 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 17:36:47 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 17:36:47 I: A new test session was created
+2014-11-11 17:36:47 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 17:36:47 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 17:36:47 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 17:37:00 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 17:37:00 I: A new test session was created
+2014-11-11 17:37:00 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 17:37:00 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 17:37:00 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 17:40:52 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 17:40:52 I: A new test session was created
+2014-11-11 17:40:52 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 17:40:52 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 17:40:52 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 17:41:38 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 17:41:38 I: A new test session was created
+2014-11-11 17:41:38 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 17:41:38 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 17:41:38 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 17:41:40 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 17:41:49 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 17:41:49 I: A new test session was created
+2014-11-11 17:41:49 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 17:41:49 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 17:41:49 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 17:48:23 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 17:48:25 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 17:48:25 I: A new test session was created
+2014-11-11 17:48:25 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 17:48:25 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 17:48:25 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 17:49:44 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 17:49:51 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 17:49:51 I: A new test session was created
+2014-11-11 17:49:51 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 17:49:51 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 17:49:51 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 17:50:40 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 17:50:52 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 17:50:52 I: A new test session was created
+2014-11-11 17:50:52 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 17:50:52 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 17:50:52 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 17:56:45 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 17:56:48 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 17:56:48 I: A new test session was created
+2014-11-11 17:56:48 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 17:56:48 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 17:57:27 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 17:57:27 I: A new test session was created
+2014-11-11 17:57:27 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 17:57:27 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 17:57:27 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 17:57:34 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 17:57:34 I: A new test session was created
+2014-11-11 17:57:34 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 17:57:34 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 17:57:34 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 17:58:36 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 17:58:36 I: A new test session was created
+2014-11-11 17:58:36 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 17:58:36 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 17:58:36 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 18:02:50 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 18:02:52 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 18:02:52 I: A new test session was created
+2014-11-11 18:02:52 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 18:02:52 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 18:02:52 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 18:03:10 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 18:03:14 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 18:03:14 I: A new test session was created
+2014-11-11 18:03:14 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 18:03:14 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 18:03:14 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 18:04:32 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 18:04:43 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 18:04:43 I: A new test session was created
+2014-11-11 18:04:43 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 18:04:44 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 18:04:44 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 18:05:04 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 18:05:06 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 18:05:06 I: A new test session was created
+2014-11-11 18:05:06 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 18:05:06 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 18:05:06 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 18:05:33 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 18:05:34 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 18:05:34 I: A new test session was created
+2014-11-11 18:05:34 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 18:05:34 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 18:05:34 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 18:06:04 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 18:06:06 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 18:06:06 I: A new test session was created
+2014-11-11 18:06:06 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 18:06:06 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 18:06:06 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 18:07:15 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 18:07:16 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 18:07:16 I: A new test session was created
+2014-11-11 18:07:16 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 18:07:17 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 18:07:17 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 18:17:43 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 18:17:44 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 18:17:44 I: A new test session was created
+2014-11-11 18:17:44 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 18:17:44 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 18:17:44 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 18:18:40 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 18:18:42 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 18:18:42 I: A new test session was created
+2014-11-11 18:18:42 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 18:18:42 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 18:18:42 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 18:21:44 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 18:21:47 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 18:21:47 I: A new test session was created
+2014-11-11 18:21:47 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 18:21:47 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 18:21:47 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 18:23:28 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 18:23:29 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 18:23:29 I: A new test session was created
+2014-11-11 18:23:29 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 18:23:29 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 18:23:29 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 18:25:03 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 18:25:04 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 18:25:04 I: A new test session was created
+2014-11-11 18:25:04 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 18:25:04 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 18:25:04 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 18:25:13 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 18:26:26 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 18:26:26 I: A new test session was created
+2014-11-11 18:26:26 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 18:26:26 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 18:26:26 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 18:29:22 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 18:29:23 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 18:29:23 I: A new test session was created
+2014-11-11 18:29:23 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 18:29:23 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 18:29:23 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 18:30:02 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 18:30:05 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 18:30:05 I: A new test session was created
+2014-11-11 18:30:05 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 18:30:05 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 18:30:05 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 18:30:21 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 18:31:05 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 18:31:05 I: A new test session was created
+2014-11-11 18:31:05 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 18:31:05 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 18:31:33 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 18:31:33 I: A new test session was created
+2014-11-11 18:31:33 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 18:31:33 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 18:36:44 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 18:36:44 I: A new test session was created
+2014-11-11 18:36:44 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 18:36:44 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 18:36:44 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 18:37:14 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 18:37:17 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 18:37:17 I: A new test session was created
+2014-11-11 18:37:17 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 18:37:17 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 18:39:51 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 18:39:51 I: A new test session was created
+2014-11-11 18:39:51 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 18:39:51 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 18:39:51 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 18:40:12 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 18:40:13 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 18:40:13 I: A new test session was created
+2014-11-11 18:40:13 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 18:40:13 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 18:40:13 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 19:36:58 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 19:37:02 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 19:37:02 I: A new test session was created
+2014-11-11 19:37:02 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 19:37:02 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 19:37:02 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 19:37:03 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 19:38:00 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 19:38:00 I: A new test session was created
+2014-11-11 19:38:00 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 19:38:00 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 19:38:00 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 19:38:27 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 19:38:28 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 19:38:28 I: A new test session was created
+2014-11-11 19:38:28 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 19:38:28 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 19:38:28 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 19:39:01 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 19:39:02 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 19:39:02 I: A new test session was created
+2014-11-11 19:39:02 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 19:39:02 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 19:39:02 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 19:39:50 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 19:39:51 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 19:39:51 I: A new test session was created
+2014-11-11 19:39:51 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 19:39:51 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 19:39:51 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 19:41:51 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 19:41:52 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 19:41:52 I: A new test session was created
+2014-11-11 19:41:52 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 19:41:52 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 19:41:52 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 19:44:18 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 19:44:20 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 19:44:20 I: A new test session was created
+2014-11-11 19:44:20 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 19:44:20 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 19:44:20 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 19:45:16 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 19:45:17 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 19:45:17 I: A new test session was created
+2014-11-11 19:45:17 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 19:45:17 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 19:45:17 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 19:56:35 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 19:56:36 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 19:56:36 I: A new test session was created
+2014-11-11 19:56:37 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 19:56:37 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 19:56:51 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 19:56:51 I: A new test session was created
+2014-11-11 19:56:51 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 19:56:51 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 19:56:51 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 19:56:51 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 19:58:00 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 19:58:01 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 19:58:01 I: A new test session was created
+2014-11-11 19:58:01 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 19:58:01 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 19:58:01 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 19:58:01 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 19:58:23 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 19:58:24 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 19:58:24 I: A new test session was created
+2014-11-11 19:58:24 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 19:58:24 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 19:58:24 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 19:58:24 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 20:01:07 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 20:01:08 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 20:01:08 I: A new test session was created
+2014-11-11 20:01:08 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 20:01:08 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 20:01:08 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 20:01:08 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 20:01:12 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 20:01:13 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 20:01:13 I: A new test session was created
+2014-11-11 20:01:13 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 20:01:14 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 20:01:14 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 20:01:14 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 20:01:34 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 20:02:08 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 20:02:08 I: A new test session was created
+2014-11-11 20:02:08 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 20:02:08 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 20:02:08 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 20:02:08 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 20:02:29 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 20:02:30 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 20:02:30 I: A new test session was created
+2014-11-11 20:02:30 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 20:02:31 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 20:02:31 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 20:02:31 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 20:03:49 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 20:03:50 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 20:03:50 I: A new test session was created
+2014-11-11 20:03:51 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 20:03:51 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 20:03:51 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 20:04:01 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 20:04:01 I: A new test session was created
+2014-11-11 20:04:01 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 20:04:01 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 20:04:01 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 20:04:12 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 20:04:16 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 20:04:16 I: A new test session was created
+2014-11-11 20:04:16 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 20:04:16 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 20:04:16 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 20:11:01 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 20:11:02 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 20:11:02 I: A new test session was created
+2014-11-11 20:11:02 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 20:11:02 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 20:11:02 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-11 20:11:08 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-11 20:11:10 I: ------------------------ Starting a new connection ---------------------------
+2014-11-11 20:11:10 I: A new test session was created
+2014-11-11 20:11:10 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-11 20:11:10 I: connecting to scheduler at tcp://localhost:5555
+2014-11-11 20:11:10 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 14:26:27 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 14:26:27 I: A new test session was created
+2014-11-17 14:26:27 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 14:26:27 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 14:26:27 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 14:28:14 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-17 14:28:16 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 14:28:16 I: A new test session was created
+2014-11-17 14:28:16 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 14:28:16 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 14:28:16 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 14:28:23 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-17 14:28:24 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 14:28:24 I: A new test session was created
+2014-11-17 14:28:24 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 14:28:24 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 14:28:24 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 14:46:30 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-17 14:46:31 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 14:46:32 I: A new test session was created
+2014-11-17 14:46:32 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 14:46:32 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 14:46:32 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 14:49:30 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 14:49:30 I: A new test session was created
+2014-11-17 14:49:30 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 14:49:30 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 14:49:30 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 14:49:30 I: recived the reply!
+2014-11-17 14:50:38 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 14:50:38 I: A new test session was created
+2014-11-17 14:50:38 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 14:50:38 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 14:50:38 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 14:50:38 I: recived the reply!
+2014-11-17 14:50:38 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 14:50:38 I: recived the reply!
+2014-11-17 14:50:55 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 14:50:55 I: A new test session was created
+2014-11-17 14:50:55 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 14:50:55 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 14:50:55 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 14:50:55 I: recived the reply!
+2014-11-17 14:50:55 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 14:50:55 I: recived the reply!
+2014-11-17 14:51:17 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 14:51:17 I: A new test session was created
+2014-11-17 14:51:17 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 14:51:17 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 14:51:17 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 14:51:17 I: recived the reply!
+2014-11-17 14:51:17 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 14:51:17 I: recived the reply!
+2014-11-17 14:53:15 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 14:53:15 I: A new test session was created
+2014-11-17 14:53:15 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 14:53:15 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 14:53:15 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 14:53:15 I: recived the reply!
+2014-11-17 14:53:15 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 14:53:15 I: recived the reply!
+2014-11-17 14:55:50 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 14:55:50 I: A new test session was created
+2014-11-17 14:55:50 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 14:55:50 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 14:55:50 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 14:55:50 I: recived the reply!
+2014-11-17 14:55:50 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 14:56:14 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 14:56:14 I: A new test session was created
+2014-11-17 14:56:14 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 14:56:14 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 14:56:14 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 14:56:14 I: recived the reply!
+2014-11-17 14:56:14 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 14:56:14 I: recived the reply!
+2014-11-17 14:56:28 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 14:56:28 I: A new test session was created
+2014-11-17 14:56:28 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 14:56:28 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 14:56:28 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 14:56:28 I: recived the reply!
+2014-11-17 14:56:28 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 14:56:28 I: recived the reply!
+2014-11-17 14:59:04 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 14:59:04 I: A new test session was created
+2014-11-17 14:59:04 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 14:59:04 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 14:59:04 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 14:59:04 I: recived the reply!
+2014-11-17 14:59:04 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:11:48 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 15:11:48 I: A new test session was created
+2014-11-17 15:11:48 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 15:11:48 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 15:11:48 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:11:48 I: recived the reply!
+2014-11-17 15:11:48 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:12:11 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 15:12:11 I: A new test session was created
+2014-11-17 15:12:11 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 15:12:11 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 15:12:11 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:12:11 I: recived the reply!
+2014-11-17 15:12:11 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:12:11 I: recived the reply!
+2014-11-17 15:12:32 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 15:12:32 I: A new test session was created
+2014-11-17 15:12:32 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 15:12:32 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 15:12:32 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:12:32 I: recived the reply!
+2014-11-17 15:12:32 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:12:32 I: recived the reply!
+2014-11-17 15:12:49 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 15:12:49 I: A new test session was created
+2014-11-17 15:12:49 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 15:12:49 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 15:12:49 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:12:49 I: recived the reply!
+2014-11-17 15:12:49 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:12:49 I: recived the reply!
+2014-11-17 15:13:38 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 15:13:38 I: A new test session was created
+2014-11-17 15:13:39 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 15:13:39 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 15:13:39 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:13:39 I: recived the reply!
+2014-11-17 15:13:39 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:13:39 I: recived the reply!
+2014-11-17 15:13:50 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 15:13:50 I: A new test session was created
+2014-11-17 15:13:50 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 15:13:50 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 15:13:50 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:13:50 I: recived the reply!
+2014-11-17 15:13:50 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:19:52 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 15:19:52 I: A new test session was created
+2014-11-17 15:19:52 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 15:19:52 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 15:19:52 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:21:43 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-17 15:21:44 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 15:21:44 I: A new test session was created
+2014-11-17 15:21:44 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 15:21:44 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 15:21:44 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:22:16 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-17 15:22:17 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 15:22:17 I: A new test session was created
+2014-11-17 15:22:17 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 15:22:17 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 15:22:17 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:22:17 I: recived the reply!
+2014-11-17 15:22:17 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:23:06 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 15:23:06 I: A new test session was created
+2014-11-17 15:23:06 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 15:23:06 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 15:23:06 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:23:06 I: recived the reply!
+2014-11-17 15:23:06 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:23:40 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 15:23:40 I: A new test session was created
+2014-11-17 15:23:40 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 15:23:40 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 15:23:40 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:25:11 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 15:25:11 I: A new test session was created
+2014-11-17 15:25:11 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 15:25:11 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 15:25:11 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:25:55 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 15:25:55 I: A new test session was created
+2014-11-17 15:25:55 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 15:25:55 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 15:25:55 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:26:15 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 15:26:15 I: A new test session was created
+2014-11-17 15:26:15 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 15:26:15 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 15:26:15 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:27:37 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 15:27:37 I: A new test session was created
+2014-11-17 15:27:37 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 15:27:37 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 15:27:37 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:27:44 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 15:27:44 I: A new test session was created
+2014-11-17 15:27:44 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 15:27:44 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 15:27:44 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:28:59 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 15:28:59 I: A new test session was created
+2014-11-17 15:28:59 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 15:28:59 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 15:28:59 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:30:37 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 15:30:37 I: A new test session was created
+2014-11-17 15:30:37 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 15:30:37 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 15:30:37 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:30:37 I: recived the reply!
+2014-11-17 15:30:37 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:32:39 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-17 15:32:40 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 15:32:40 I: A new test session was created
+2014-11-17 15:32:40 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 15:32:40 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 15:32:40 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:32:40 I: recived the reply!
+2014-11-17 15:32:40 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:33:54 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-17 15:33:55 I: ------------------------ Starting a new connection ---------------------------
+2014-11-17 15:33:55 I: A new test session was created
+2014-11-17 15:33:55 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-17 15:33:55 I: connecting to scheduler at tcp://localhost:5555
+2014-11-17 15:33:55 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 15:33:55 I: recived the reply!
+2014-11-17 15:33:55 I: Send request to the scheduler at: tcp://localhost:5555 
+2014-11-17 17:49:45 I: The execution was interrupted by keyboard! Restart the process..
+2014-11-25 15:15:15 I: ------------------------ Starting a new connection ---------------------------
+2014-11-25 15:15:15 I: A new test session was created
+2014-11-25 15:15:16 I: muta-gen -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-25 17:41:09 I: ------------------------ Starting a new connection ---------------------------
+2014-11-25 17:41:09 I: A new test session was created
+2014-11-25 17:41:09 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-25 17:42:12 I: ------------------------ Starting a new connection ---------------------------
+2014-11-25 17:42:12 I: A new test session was created
+2014-11-25 17:42:12 I: muta-gen  -unit cal -unit funca -unit funcaa -unit funcfunc -unit funcfuncfunc -unit funcfuncfuncfunc -unit funcfuncfuncfuncfunc -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-25 17:43:25 I: ------------------------ Starting a new connection ---------------------------
+2014-11-25 17:43:25 I: A new test session was created
+2014-11-25 17:43:25 I: muta-gen  -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-25 17:43:36 I: ------------------------ Starting a new connection ---------------------------
+2014-11-25 17:43:36 I: A new test session was created
+2014-11-25 17:43:36 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-25 21:26:45 I: ------------------------ Starting a new connection ---------------------------
+2014-11-25 21:26:45 I: A new test session was created
+2014-11-25 21:26:45 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-25 22:29:42 I: ------------------------ Starting a new connection ---------------------------
+2014-11-25 22:29:42 I: A new test session was created
+2014-11-25 22:29:42 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-25 22:30:42 I: ------------------------ Starting a new connection ---------------------------
+2014-11-25 22:30:42 I: A new test session was created
+2014-11-25 22:30:42 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-25 22:32:04 I: ------------------------ Starting a new connection ---------------------------
+2014-11-25 22:32:04 I: A new test session was created
+2014-11-25 22:32:04 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-25 22:39:23 I: ------------------------ Starting a new connection ---------------------------
+2014-11-25 22:39:23 I: A new test session was created
+2014-11-25 22:39:23 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-26 19:31:08 I: ------------------------ Starting a new connection ---------------------------
+2014-11-26 19:31:08 I: A new test session was created
+2014-11-26 19:31:08 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-26 19:33:32 I: ------------------------ Starting a new connection ---------------------------
+2014-11-26 19:33:32 I: A new test session was created
+2014-11-26 19:33:32 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-26 19:42:13 I: ------------------------ Starting a new connection ---------------------------
+2014-11-26 19:42:14 I: A new test session was created
+2014-11-26 19:42:14 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-26 19:45:33 I: ------------------------ Starting a new connection ---------------------------
+2014-11-26 19:45:33 I: A new test session was created
+2014-11-26 19:45:33 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-26 19:46:02 I: ------------------------ Starting a new connection ---------------------------
+2014-11-26 19:46:02 I: A new test session was created
+2014-11-26 19:46:02 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-26 19:54:38 I: ------------------------ Starting a new connection ---------------------------
+2014-11-26 19:54:38 I: A new test session was created
+2014-11-26 19:54:38 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-26 19:58:16 I: ------------------------ Starting a new connection ---------------------------
+2014-11-26 19:58:16 I: A new test session was created
+2014-11-26 19:58:17 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-26 19:58:46 I: ------------------------ Starting a new connection ---------------------------
+2014-11-26 19:58:46 I: A new test session was created
+2014-11-26 19:58:46 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-26 20:01:36 I: ------------------------ Starting a new connection ---------------------------
+2014-11-26 20:01:36 I: A new test session was created
+2014-11-26 20:01:36 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-26 20:04:15 I: ------------------------ Starting a new connection ---------------------------
+2014-11-26 20:04:15 I: A new test session was created
+2014-11-26 20:04:15 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-27 14:29:07 I: ------------------------ Starting a new connection ---------------------------
+2014-11-27 14:29:07 I: A new test session was created
+2014-11-27 14:29:07 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-27 14:31:10 I: ------------------------ Starting a new connection ---------------------------
+2014-11-27 14:31:10 I: A new test session was created
+2014-11-27 14:31:10 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-27 14:31:58 I: ------------------------ Starting a new connection ---------------------------
+2014-11-27 14:31:58 I: A new test session was created
+2014-11-27 14:31:58 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-28 11:07:30 I: ------------------------ Starting a new connection ---------------------------
+2014-11-28 11:07:30 I: A new test session was created
+2014-11-28 11:07:30 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-11-28 11:13:34 I: ------------------------ Starting a new connection ---------------------------
+2014-11-28 11:13:34 I: A new test session was created
+2014-11-28 11:13:34 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-08 18:51:17 I: ------------------------ Starting a new connection ---------------------------
+2014-12-08 18:51:17 I: A new test session was created
+2014-12-08 18:51:17 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-08 18:52:46 I: ------------------------ Starting a new connection ---------------------------
+2014-12-08 18:52:46 I: A new test session was created
+2014-12-08 18:52:46 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-08 18:53:05 I: ------------------------ Starting a new connection ---------------------------
+2014-12-08 18:53:05 I: A new test session was created
+2014-12-08 18:53:05 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-08 21:29:05 I: ------------------------ Starting a new connection ---------------------------
+2014-12-08 21:29:05 I: A new test session was created
+2014-12-08 21:29:05 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-09 14:01:28 I: ------------------------ Starting a new connection ---------------------------
+2014-12-09 14:01:28 I: A new test session was created
+2014-12-09 14:01:28 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-09 14:03:57 I: ------------------------ Starting a new connection ---------------------------
+2014-12-09 14:03:57 I: A new test session was created
+2014-12-09 14:03:57 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-09 14:04:22 I: ------------------------ Starting a new connection ---------------------------
+2014-12-09 14:04:22 I: A new test session was created
+2014-12-09 14:04:22 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-09 14:04:59 I: ------------------------ Starting a new connection ---------------------------
+2014-12-09 14:04:59 I: A new test session was created
+2014-12-09 14:04:59 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-09 14:14:47 I: ------------------------ Starting a new connection ---------------------------
+2014-12-09 14:14:47 I: A new test session was created
+2014-12-09 14:14:47 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-09 14:16:19 I: ------------------------ Starting a new connection ---------------------------
+2014-12-09 14:16:19 I: A new test session was created
+2014-12-09 14:16:19 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-09 14:17:32 I: ------------------------ Starting a new connection ---------------------------
+2014-12-09 14:17:32 I: A new test session was created
+2014-12-09 14:17:32 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-09 14:26:26 I: ------------------------ Starting a new connection ---------------------------
+2014-12-09 14:26:26 I: A new test session was created
+2014-12-09 14:26:26 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-09 14:27:51 I: ------------------------ Starting a new connection ---------------------------
+2014-12-09 14:27:51 I: A new test session was created
+2014-12-09 14:27:51 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-09 14:29:43 I: ------------------------ Starting a new connection ---------------------------
+2014-12-09 14:29:43 I: A new test session was created
+2014-12-09 14:29:43 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-09 14:30:30 I: ------------------------ Starting a new connection ---------------------------
+2014-12-09 14:30:30 I: A new test session was created
+2014-12-09 14:30:30 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-09 14:30:54 I: ------------------------ Starting a new connection ---------------------------
+2014-12-09 14:30:54 I: A new test session was created
+2014-12-09 14:30:54 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-09 14:32:04 I: ------------------------ Starting a new connection ---------------------------
+2014-12-09 14:32:04 I: A new test session was created
+2014-12-09 14:32:04 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-09 14:33:14 I: ------------------------ Starting a new connection ---------------------------
+2014-12-09 14:33:14 I: A new test session was created
+2014-12-09 14:33:14 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-09 14:33:23 I: ------------------------ Starting a new connection ---------------------------
+2014-12-09 14:33:23 I: A new test session was created
+2014-12-09 14:33:23 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-09 14:34:12 I: ------------------------ Starting a new connection ---------------------------
+2014-12-09 14:34:12 I: A new test session was created
+2014-12-09 14:34:12 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-09 14:48:22 I: ------------------------ Starting a new connection ---------------------------
+2014-12-09 14:48:22 I: A new test session was created
+2014-12-09 14:48:22 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-09 14:49:05 I: ------------------------ Starting a new connection ---------------------------
+2014-12-09 14:49:05 I: A new test session was created
+2014-12-09 14:49:05 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-09 14:52:00 I: ------------------------ Starting a new connection ---------------------------
+2014-12-09 14:52:00 I: A new test session was created
+2014-12-09 14:52:00 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-09 14:52:49 I: ------------------------ Starting a new connection ---------------------------
+2014-12-09 14:52:49 I: A new test session was created
+2014-12-09 14:52:49 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-09 14:53:50 I: ------------------------ Starting a new connection ---------------------------
+2014-12-09 14:53:50 I: A new test session was created
+2014-12-09 14:53:50 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-10 14:23:38 I: ------------------------ Starting a new connection ---------------------------
+2014-12-10 14:23:38 I: A new test session was created
+2014-12-10 14:23:38 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-10 14:26:15 I: ------------------------ Starting a new connection ---------------------------
+2014-12-10 14:26:15 I: A new test session was created
+2014-12-10 14:26:15 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-10 14:44:16 I: ------------------------ Starting a new connection ---------------------------
+2014-12-10 14:44:17 I: A new test session was created
+2014-12-10 14:44:17 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-10 14:44:42 I: ------------------------ Starting a new connection ---------------------------
+2014-12-10 14:44:42 I: A new test session was created
+2014-12-10 14:44:42 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-10 14:45:08 I: ------------------------ Starting a new connection ---------------------------
+2014-12-10 14:45:08 I: A new test session was created
+2014-12-10 14:45:08 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-10 14:56:20 I: ------------------------ Starting a new connection ---------------------------
+2014-12-10 14:56:20 I: A new test session was created
+2014-12-10 14:56:20 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-10 14:59:02 I: ------------------------ Starting a new connection ---------------------------
+2014-12-10 14:59:02 I: A new test session was created
+2014-12-10 14:59:02 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-10 14:59:52 I: ------------------------ Starting a new connection ---------------------------
+2014-12-10 14:59:52 I: A new test session was created
+2014-12-10 14:59:52 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-10 15:14:46 I: ------------------------ Starting a new connection ---------------------------
+2014-12-10 15:14:46 I: A new test session was created
+2014-12-10 15:14:46 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-10 15:15:23 I: ------------------------ Starting a new connection ---------------------------
+2014-12-10 15:15:23 I: A new test session was created
+2014-12-10 15:15:23 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-10 15:31:36 I: ------------------------ Starting a new connection ---------------------------
+2014-12-10 15:31:36 I: A new test session was created
+2014-12-10 15:31:36 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-10 15:42:01 I: ------------------------ Starting a new connection ---------------------------
+2014-12-10 15:42:01 I: A new test session was created
+2014-12-10 15:42:01 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-10 15:42:47 I: ------------------------ Starting a new connection ---------------------------
+2014-12-10 15:42:47 I: A new test session was created
+2014-12-10 15:42:47 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-11 15:06:13 I: ------------------------ Starting a new connection ---------------------------
+2014-12-11 15:06:13 I: A new test session was created
+2014-12-11 15:06:13 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-11 15:11:21 I: ------------------------ Starting a new connection ---------------------------
+2014-12-11 15:11:21 I: A new test session was created
+2014-12-11 15:11:21 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-11 15:13:49 I: ------------------------ Starting a new connection ---------------------------
+2014-12-11 15:13:49 I: A new test session was created
+2014-12-11 15:13:49 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-11 15:17:30 I: ------------------------ Starting a new connection ---------------------------
+2014-12-11 15:17:30 I: A new test session was created
+2014-12-11 15:17:30 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-11 15:26:13 I: ------------------------ Starting a new connection ---------------------------
+2014-12-11 15:26:13 I: A new test session was created
+2014-12-11 15:26:14 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-11 15:26:50 I: ------------------------ Starting a new connection ---------------------------
+2014-12-11 15:26:50 I: A new test session was created
+2014-12-11 15:26:50 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-11 15:28:58 I: ------------------------ Starting a new connection ---------------------------
+2014-12-11 15:28:58 I: A new test session was created
+2014-12-11 15:28:58 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-11 15:31:29 I: ------------------------ Starting a new connection ---------------------------
+2014-12-11 15:31:29 I: A new test session was created
+2014-12-11 15:31:29 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-11 15:33:11 I: ------------------------ Starting a new connection ---------------------------
+2014-12-11 15:33:11 I: A new test session was created
+2014-12-11 15:33:11 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-11 15:33:44 I: ------------------------ Starting a new connection ---------------------------
+2014-12-11 15:33:44 I: A new test session was created
+2014-12-11 15:33:44 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-15 18:45:27 I: ------------------------ Starting a new connection ---------------------------
+2014-12-15 18:45:27 I: A new test session was created
+2014-12-15 18:45:27 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-15 19:17:10 I: ------------------------ Starting a new connection ---------------------------
+2014-12-15 19:17:10 I: A new test session was created
+2014-12-15 19:17:10 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-15 19:17:45 I: ------------------------ Starting a new connection ---------------------------
+2014-12-15 19:17:45 I: A new test session was created
+2014-12-15 19:17:45 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 16:50:26 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 16:50:26 I: A new test session was created
+2014-12-16 16:50:26 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 16:52:54 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 16:52:54 I: A new test session was created
+2014-12-16 16:52:54 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 16:57:16 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 16:57:16 I: A new test session was created
+2014-12-16 16:57:16 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 16:58:27 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 16:58:27 I: A new test session was created
+2014-12-16 16:58:27 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 16:59:05 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 16:59:06 I: A new test session was created
+2014-12-16 16:59:06 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:00:10 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:00:10 I: A new test session was created
+2014-12-16 17:00:10 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:00:36 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:00:36 I: A new test session was created
+2014-12-16 17:00:36 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:04:08 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:04:08 I: A new test session was created
+2014-12-16 17:04:08 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:05:56 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:05:56 I: A new test session was created
+2014-12-16 17:05:56 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:06:21 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:06:21 I: A new test session was created
+2014-12-16 17:06:22 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:06:42 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:06:42 I: A new test session was created
+2014-12-16 17:06:42 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:07:19 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:07:19 I: A new test session was created
+2014-12-16 17:07:19 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:08:20 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:08:20 I: A new test session was created
+2014-12-16 17:08:20 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:08:42 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:08:42 I: A new test session was created
+2014-12-16 17:08:42 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:21:15 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:21:15 I: A new test session was created
+2014-12-16 17:21:15 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:22:24 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:22:24 I: A new test session was created
+2014-12-16 17:22:24 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:23:54 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:23:54 I: A new test session was created
+2014-12-16 17:23:54 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:24:34 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:24:34 I: A new test session was created
+2014-12-16 17:24:34 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:25:05 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:25:05 I: A new test session was created
+2014-12-16 17:25:05 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:25:31 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:25:31 I: A new test session was created
+2014-12-16 17:25:31 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:26:06 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:26:06 I: A new test session was created
+2014-12-16 17:26:06 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:26:41 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:26:41 I: A new test session was created
+2014-12-16 17:26:41 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:28:18 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:28:18 I: A new test session was created
+2014-12-16 17:28:18 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:30:18 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:30:18 I: A new test session was created
+2014-12-16 17:30:18 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:32:40 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:32:40 I: A new test session was created
+2014-12-16 17:32:40 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:35:31 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:35:31 I: A new test session was created
+2014-12-16 17:35:31 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:36:05 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:36:05 I: A new test session was created
+2014-12-16 17:36:05 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:38:08 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:38:08 I: A new test session was created
+2014-12-16 17:38:08 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:38:50 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:38:50 I: A new test session was created
+2014-12-16 17:38:50 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:39:21 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:39:21 I: A new test session was created
+2014-12-16 17:39:21 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:41:07 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:41:07 I: A new test session was created
+2014-12-16 17:41:07 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:41:37 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:41:37 I: A new test session was created
+2014-12-16 17:41:37 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:46:33 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:46:33 I: A new test session was created
+2014-12-16 17:46:33 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:50:57 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:50:57 I: A new test session was created
+2014-12-16 17:50:57 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:51:14 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:51:14 I: A new test session was created
+2014-12-16 17:51:14 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:51:42 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:51:42 I: A new test session was created
+2014-12-16 17:51:42 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:53:28 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:53:28 I: A new test session was created
+2014-12-16 17:53:28 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:54:31 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:54:31 I: A new test session was created
+2014-12-16 17:54:31 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 17:56:48 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 17:56:48 I: A new test session was created
+2014-12-16 17:56:48 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 18:02:12 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 18:02:12 I: A new test session was created
+2014-12-16 18:02:12 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 18:07:38 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 18:07:38 I: A new test session was created
+2014-12-16 18:07:39 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 18:08:13 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 18:08:13 I: A new test session was created
+2014-12-16 18:08:13 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 18:27:15 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 18:27:15 I: A new test session was created
+2014-12-16 18:27:15 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 22:04:01 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 22:04:01 I: A new test session was created
+2014-12-16 22:04:01 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 22:06:18 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 22:06:18 I: A new test session was created
+2014-12-16 22:06:18 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 22:09:01 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 22:09:01 I: A new test session was created
+2014-12-16 22:09:01 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 22:11:16 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 22:11:16 I: A new test session was created
+2014-12-16 22:11:16 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 22:38:14 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 22:38:14 I: A new test session was created
+2014-12-16 22:38:14 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 22:44:21 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 22:44:21 I: A new test session was created
+2014-12-16 22:44:21 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 22:44:51 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 22:44:51 I: A new test session was created
+2014-12-16 22:44:51 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 22:46:26 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 22:46:26 I: A new test session was created
+2014-12-16 22:46:27 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 22:49:34 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 22:49:34 I: A new test session was created
+2014-12-16 22:49:34 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 22:50:44 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 22:50:44 I: A new test session was created
+2014-12-16 22:50:44 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 22:52:26 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 22:52:26 I: A new test session was created
+2014-12-16 22:52:26 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 22:55:31 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 22:55:31 I: A new test session was created
+2014-12-16 22:55:31 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 23:05:26 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 23:05:26 I: A new test session was created
+2014-12-16 23:05:26 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 23:06:11 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 23:06:11 I: A new test session was created
+2014-12-16 23:06:11 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 23:06:53 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 23:06:53 I: A new test session was created
+2014-12-16 23:06:53 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 23:25:04 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 23:25:04 I: A new test session was created
+2014-12-16 23:25:04 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 23:25:36 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 23:25:36 I: A new test session was created
+2014-12-16 23:25:36 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 23:32:58 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 23:32:58 I: A new test session was created
+2014-12-16 23:32:58 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-16 23:35:09 I: ------------------------ Starting a new connection ---------------------------
+2014-12-16 23:35:09 I: A new test session was created
+2014-12-16 23:35:09 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 15:13:29 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 15:13:29 I: A new test session was created
+2014-12-17 15:13:29 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 15:16:44 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 15:16:44 I: A new test session was created
+2014-12-17 15:16:44 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 15:28:59 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 15:28:59 I: A new test session was created
+2014-12-17 15:28:59 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 15:29:18 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 15:29:18 I: A new test session was created
+2014-12-17 15:29:18 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 15:38:57 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 15:38:57 I: A new test session was created
+2014-12-17 15:38:57 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 15:39:54 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 15:39:54 I: A new test session was created
+2014-12-17 15:39:54 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 15:44:17 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 15:44:17 I: A new test session was created
+2014-12-17 15:44:17 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 15:45:26 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 15:45:26 I: A new test session was created
+2014-12-17 15:45:26 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 15:46:10 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 15:46:10 I: A new test session was created
+2014-12-17 15:46:10 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 15:48:28 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 15:48:28 I: A new test session was created
+2014-12-17 15:48:28 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 15:50:06 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 15:50:06 I: A new test session was created
+2014-12-17 15:50:06 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 15:52:57 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 15:52:57 I: A new test session was created
+2014-12-17 15:52:57 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 16:39:28 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 16:39:28 I: A new test session was created
+2014-12-17 16:39:28 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 16:43:00 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 16:43:00 I: A new test session was created
+2014-12-17 16:43:00 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 16:43:46 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 16:43:46 I: A new test session was created
+2014-12-17 16:43:46 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 16:48:37 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 16:48:37 I: A new test session was created
+2014-12-17 16:48:37 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 17:29:04 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 17:29:04 I: A new test session was created
+2014-12-17 17:29:04 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 17:30:15 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 17:30:15 I: A new test session was created
+2014-12-17 17:30:15 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 17:57:30 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 17:57:30 I: A new test session was created
+2014-12-17 17:57:30 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 18:01:59 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 18:01:59 I: A new test session was created
+2014-12-17 18:01:59 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 18:03:55 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 18:03:55 I: A new test session was created
+2014-12-17 18:03:55 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 18:06:32 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 18:06:32 I: A new test session was created
+2014-12-17 18:06:32 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 18:09:45 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 18:09:45 I: A new test session was created
+2014-12-17 18:09:45 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 18:10:31 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 18:10:31 I: A new test session was created
+2014-12-17 18:10:31 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 18:11:40 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 18:11:40 I: A new test session was created
+2014-12-17 18:11:40 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 18:12:11 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 18:12:11 I: A new test session was created
+2014-12-17 18:12:11 I: muta-gen  -unit cal -u- 1.0 0 cal --> Generating the mutants for the program
+2014-12-17 20:09:48 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 20:11:35 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 20:12:34 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 20:13:05 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 20:15:40 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 20:16:32 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 21:03:32 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 21:05:09 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 21:07:25 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 21:08:02 I: ------------------------ Starting a new connection ---------------------------
+2014-12-17 21:08:27 I: ------------------------ Starting a new connection ---------------------------
+2014-12-18 14:56:37 I: ------------------------ Starting a new connection ---------------------------
+2014-12-18 15:46:46 I: ------------------------ Starting a new connection ---------------------------
+2014-12-18 15:47:42 I: ------------------------ Starting a new connection ---------------------------
+2014-12-18 15:49:24 I: ------------------------ Starting a new connection ---------------------------
+2014-12-18 15:49:55 I: ------------------------ Starting a new connection ---------------------------
+2014-12-18 15:51:11 I: ------------------------ Starting a new connection ---------------------------
+2014-12-18 16:14:11 I: ------------------------ Starting a new connection ---------------------------
+2014-12-18 17:47:04 I: ------------------------ Starting a new connection ---------------------------
+2014-12-18 17:52:03 I: ------------------------ Starting a new connection ---------------------------
+2014-12-18 18:11:51 I: ------------------------ Starting a new connection ---------------------------
+2014-12-18 18:14:12 I: ------------------------ Starting a new connection ---------------------------
+2014-12-18 18:17:03 I: ------------------------ Starting a new connection ---------------------------
+2014-12-18 18:28:09 I: ------------------------ Starting a new connection ---------------------------
+2014-12-19 14:46:55 I: ------------------------ Starting a new connection ---------------------------
+2014-12-19 14:48:06 I: ------------------------ Starting a new connection ---------------------------
+2014-12-19 14:50:39 I: ------------------------ Starting a new connection ---------------------------
+2014-12-19 14:51:20 I: ------------------------ Starting a new connection ---------------------------
+2014-12-19 14:51:56 I: ------------------------ Starting a new connection ---------------------------
+2014-12-19 14:52:35 I: ------------------------ Starting a new connection ---------------------------
+2014-12-19 14:53:50 I: ------------------------ Starting a new connection ---------------------------
+2014-12-19 15:02:05 I: ------------------------ Starting a new connection ---------------------------
+2014-12-19 15:20:08 I: ------------------------ Starting a new connection ---------------------------
+2014-12-19 15:21:02 I: ------------------------ Starting a new connection ---------------------------
+2014-12-19 15:21:36 I: ------------------------ Starting a new connection ---------------------------
+2014-12-19 15:26:23 I: ------------------------ Starting a new connection ---------------------------
+2014-12-19 15:27:24 I: ------------------------ Starting a new connection ---------------------------
+2014-12-19 15:44:07 I: ------------------------ Starting a new connection ---------------------------
+2014-12-19 15:49:51 I: ------------------------ Starting a new connection ---------------------------
+2014-12-19 17:12:50 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 15:32:54 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 15:39:39 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 15:46:34 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 15:49:49 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 15:51:25 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 15:55:36 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 15:56:40 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 16:18:21 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 16:19:43 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 16:33:47 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 16:37:07 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 16:38:25 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 16:39:14 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 16:40:13 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 16:41:11 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 16:42:32 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 16:43:11 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 16:43:41 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 16:45:22 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 16:51:17 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 16:52:12 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 17:01:34 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 17:11:44 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 17:22:06 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 17:23:21 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 17:25:22 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 17:31:05 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 17:34:53 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 17:38:38 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 17:39:27 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 17:39:59 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 17:40:21 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 17:48:49 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 17:51:18 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 17:51:43 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 17:53:36 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 17:54:55 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 17:55:44 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 17:56:48 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 18:00:30 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 18:08:05 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 18:09:24 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 18:10:40 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 18:11:22 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 18:22:25 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 18:24:44 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 18:25:47 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 18:28:57 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 18:32:01 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 18:37:55 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 18:40:24 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 18:43:01 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 18:49:07 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 18:55:40 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 18:59:45 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 19:01:59 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 19:25:49 I: ------------------------ Starting a new connection ---------------------------
+2014-12-22 19:26:10 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 15:32:26 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 15:35:19 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 15:37:33 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 15:38:35 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 16:13:24 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 16:14:56 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 16:17:43 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 16:41:26 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 16:42:03 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 16:43:23 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 16:58:41 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 16:59:16 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 17:05:36 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 17:08:16 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 17:21:26 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 17:42:13 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 17:53:47 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 17:55:03 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 18:01:17 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 18:04:11 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 18:04:44 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 18:05:38 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 18:06:09 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 18:10:59 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 18:14:04 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 18:16:10 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 18:17:56 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 18:19:22 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 18:19:45 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 18:20:26 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 18:23:27 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 18:25:10 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 18:25:45 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 18:31:24 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 18:31:53 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 18:32:56 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 18:43:46 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 18:44:31 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 18:49:35 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 18:56:33 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 18:56:58 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 18:59:49 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 19:00:57 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 19:03:27 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 19:04:40 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 19:09:04 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 19:09:34 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 19:10:14 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 19:22:38 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 19:22:58 I: ------------------------ Starting a new connection ---------------------------
+2014-12-23 19:31:21 I: ------------------------ Starting a new connection ---------------------------
+2014-12-24 14:40:57 I: ------------------------ Starting a new connection ---------------------------
+2014-12-24 14:41:50 I: ------------------------ Starting a new connection ---------------------------
+2014-12-24 14:43:33 I: ------------------------ Starting a new connection ---------------------------
+2014-12-24 14:58:34 I: ------------------------ Starting a new connection ---------------------------
+2014-12-24 14:59:07 I: ------------------------ Starting a new connection ---------------------------
+2014-12-24 15:19:31 I: ------------------------ Starting a new connection ---------------------------
+2014-12-24 15:33:15 I: ------------------------ Starting a new connection ---------------------------
+2014-12-24 15:50:22 I: ------------------------ Starting a new connection ---------------------------
+2014-12-24 15:50:30 I: ------------------------ Starting a new connection ---------------------------
+2014-12-24 15:55:21 I: ------------------------ Starting a new connection ---------------------------
+2014-12-24 15:57:44 I: ------------------------ Starting a new connection ---------------------------
+2014-12-24 15:58:57 I: ------------------------ Starting a new connection ---------------------------

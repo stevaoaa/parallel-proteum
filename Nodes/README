@@ -1,0 +1,6 @@
+
+This directory contains the python modules called client.py, scheduler.py, server.py
+
+This scripts instantiates the api that contains methods to control calls in the machines used in parallel execution
+
+The files use as reference the ideas presented in the paper "Parallel Mutation Testing" 
