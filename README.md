@@ -89,9 +89,7 @@ Scheduler
 The Scheduler is the machine responsible for distributing work portions (mutants and test cases) between the Workers.
 
 
-
-
-After that, just run:
+In order to run scheduler, just go to terminal and run:
 
 > python scheduler.py algorithm 
 
@@ -105,7 +103,7 @@ Workers
 
 Workers are responsible for performing the execution of the mutants with the set of test cases provided. In general, each worker computer behaves as a sequential version of the Proteum tool.
 
-After that, just run the command:
+To execute the worker just go to a terminal and type:
 
 > python worker.py scheduler_ip
 
