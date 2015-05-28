@@ -37,11 +37,15 @@ class Scheduler():
 	num_workers  = None
 	server       = False
 	replys       = 0
+
+	connections  = 1
+
 	result       = []
 	strategy     = ''
 	program_name = ''
 	new_connections = True
 	session      = None
+	
 
 
 	"""
@@ -59,6 +63,8 @@ class Scheduler():
 		self.waiting_list = {}
 		self.program_info = None
 		self.replys       = 0
+		
+		self.connections = 1
 		
 		self.num_workers  = num_workers
 		self.server       = False
@@ -97,6 +103,8 @@ class Scheduler():
 		self.timeout      = 2005
 		self.program_info = None
 		self.replys       = 0
+		
+		self.connections  = 1
 		
 		self.num_workers  = self.num_workers
 		self.strategy     = self.strategy
@@ -192,20 +200,21 @@ class Scheduler():
 	def syncronize_workers(self):
 
 		recived = []
-		connections = 0
-
-		while (connections < self.num_workers):
+		
+		if verbose: print "I: Synchronizing Worker..."		
+	
+		while (self.connections < self.num_workers):
 			
 			worker,data = self.recive_request()
 
 			#Only counts if recive a SYNCHRONIZE signal.. 
 			if(constants.SYNCHRONIZE in data):
 				recived.append(data)
-				connections += 1
+				self.connections += 1
 
-			if verbose: print "I: Number of Workers syncronizeds %d of %d" % (connections, self.num_workers)
+			if verbose: print "I: Number of Workers syncronizeds %d of %d" % (self.connections, self.num_workers)
 
-			if(connections == self.num_workers):
+			if(self.connections == self.num_workers):
 				break
 
 		return recived
@@ -466,11 +475,13 @@ class Scheduler():
 		#Only workers can send a reply for scheduler. It1s the end of the process
 		elif (constants.REPLY == command):
 
-			if verbose: print "I: Received all data! Will sent the result to SERVER..."
+			if verbose: print "I: Getting all the data! Will sent the result to SERVER..."
 
 			#At the end of the compute process the Scheduler need send this reply to Server
 			self.result = self.result + data #build the result
 			self.replys = self.replys + 1    #At every reply increase the variable to know if recive all the data expected
+
+			if verbose: print "I: %d of %d results collected from Workers" % (self.replys, self.num_workers)
 
 			#When recive everything, send it to the Server
 			if(self.replys == self.num_workers):
@@ -483,7 +494,16 @@ class Scheduler():
 
 				#Restart the default values
 				self.rebuild_scheduler()
+		
+		#When workers want start their service they syncronize first to avoid that the scheduler sends data erroneously 
+		elif (constants.SYNCHRONIZE == command):
 			
+			if(self.server):
+				self.syncronize_workers() #Just increment the syncronize counter
+			else:
+				if verbose: print "W: Syncronization signal ignored. Server still not connected!"
+
+	
 		else:
 			if verbose: print "E: Invalid message:"
 
